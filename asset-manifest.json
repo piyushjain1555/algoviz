@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/algoviz/static/css/main.756daaf8.chunk.css",
+    "main.js": "/algoviz/static/js/main.52d4018f.chunk.js",
+    "main.js.map": "/algoviz/static/js/main.52d4018f.chunk.js.map",
+    "runtime-main.js": "/algoviz/static/js/runtime-main.06876b55.js",
+    "runtime-main.js.map": "/algoviz/static/js/runtime-main.06876b55.js.map",
+    "static/css/2.3e575b9f.chunk.css": "/algoviz/static/css/2.3e575b9f.chunk.css",
+    "static/js/2.2d031f5b.chunk.js": "/algoviz/static/js/2.2d031f5b.chunk.js",
+    "static/js/2.2d031f5b.chunk.js.map": "/algoviz/static/js/2.2d031f5b.chunk.js.map",
+    "index.html": "/algoviz/index.html",
+    "precache-manifest.e6f39b1c0c361b86c418d2f00dac5cd3.js": "/algoviz/precache-manifest.e6f39b1c0c361b86c418d2f00dac5cd3.js",
+    "service-worker.js": "/algoviz/service-worker.js",
+    "static/css/2.3e575b9f.chunk.css.map": "/algoviz/static/css/2.3e575b9f.chunk.css.map",
+    "static/css/main.756daaf8.chunk.css.map": "/algoviz/static/css/main.756daaf8.chunk.css.map",
+    "static/js/2.2d031f5b.chunk.js.LICENSE.txt": "/algoviz/static/js/2.2d031f5b.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/algoviz/static/media/quicksort.2cf31f43.jpg",
+    "static/media/algo.jpg": "/algoviz/static/media/algo.1ab691bc.jpg",
+    "static/media/bar-chart-outline.svg": "/algoviz/static/media/bar-chart-outline.fa3aa102.svg",
+    "static/media/bar-small.jpg": "/algoviz/static/media/bar-small.7324d6e8.jpg",
+    "static/media/heap.css": "/algoviz/static/media/heapsort-banner.4fafb1bb.jpg",
+    "static/media/bubble.css": "/algoviz/static/media/bubblesort3.503e0600.jpg",
+    "static/media/dijikstra.jpg": "/algoviz/static/media/dijikstra.c0a9e5f3.jpg",
+    "static/media/hourglass-outline.svg": "/algoviz/static/media/hourglass-outline.d4703ae7.svg",
+    "static/media/infinite-outline.svg": "/algoviz/static/media/infinite-outline.1d4fbe2c.svg",
+    "static/media/insertion.css": "/algoviz/static/media/insertion-banner.51899dbe.jpg",
+    "static/media/merge.css": "/algoviz/static/media/merge-banner.6e31bebe.jpg",
+    "static/media/quick.css": "/algoviz/static/media/quicksort-banner.df08f7c9.jpg",
+    "static/media/reader-outline.svg": "/algoviz/static/media/reader-outline.87bbebe9.svg",
+    "static/media/selection.css": "/algoviz/static/media/selection-banner.8809c439.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06876b55.js",
+    "static/css/2.3e575b9f.chunk.css",
+    "static/js/2.2d031f5b.chunk.js",
+    "static/css/main.756daaf8.chunk.css",
+    "static/js/main.52d4018f.chunk.js"
+  ]
+}
