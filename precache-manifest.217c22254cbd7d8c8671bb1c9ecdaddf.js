@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07570fc9f340286b6a2a55113fed0d9f",
+    "revision": "4b59029b04668396d0597585b73d4b69",
     "url": "/algoviz/index.html"
   },
   {
-    "revision": "37cbacb2bd99951d30bd",
+    "revision": "b3849f83ab5a066c5760",
     "url": "/algoviz/static/css/2.3e575b9f.chunk.css"
   },
   {
-    "revision": "5923fe83c19542c81e48",
+    "revision": "ae6c8f12a38b01860d48",
     "url": "/algoviz/static/css/main.756daaf8.chunk.css"
   },
   {
-    "revision": "37cbacb2bd99951d30bd",
-    "url": "/algoviz/static/js/2.5bb39128.chunk.js"
+    "revision": "b3849f83ab5a066c5760",
+    "url": "/algoviz/static/js/2.097df6f3.chunk.js"
   },
   {
     "revision": "772341699553daad6bcd7d8925a6b28f",
-    "url": "/algoviz/static/js/2.5bb39128.chunk.js.LICENSE.txt"
+    "url": "/algoviz/static/js/2.097df6f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5923fe83c19542c81e48",
-    "url": "/algoviz/static/js/main.658a1b6e.chunk.js"
+    "revision": "ae6c8f12a38b01860d48",
+    "url": "/algoviz/static/js/main.af28a308.chunk.js"
   },
   {
     "revision": "97e98d19d8b33d14351d",
