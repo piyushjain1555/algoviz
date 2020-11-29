@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/algoviz/static/css/main.756daaf8.chunk.css",
-    "main.js": "/algoviz/static/js/main.2ed49f16.chunk.js",
-    "main.js.map": "/algoviz/static/js/main.2ed49f16.chunk.js.map",
+    "main.js": "/algoviz/static/js/main.f1fc4759.chunk.js",
+    "main.js.map": "/algoviz/static/js/main.f1fc4759.chunk.js.map",
     "runtime-main.js": "/algoviz/static/js/runtime-main.06876b55.js",
     "runtime-main.js.map": "/algoviz/static/js/runtime-main.06876b55.js.map",
     "static/css/2.3e575b9f.chunk.css": "/algoviz/static/css/2.3e575b9f.chunk.css",
     "static/js/2.2c0b6db3.chunk.js": "/algoviz/static/js/2.2c0b6db3.chunk.js",
     "static/js/2.2c0b6db3.chunk.js.map": "/algoviz/static/js/2.2c0b6db3.chunk.js.map",
     "index.html": "/algoviz/index.html",
-    "precache-manifest.2a8518edfd1f4bb6f87a0f515d856b39.js": "/algoviz/precache-manifest.2a8518edfd1f4bb6f87a0f515d856b39.js",
+    "precache-manifest.2c1cc86e109fe78e409d47d8689b90aa.js": "/algoviz/precache-manifest.2c1cc86e109fe78e409d47d8689b90aa.js",
     "service-worker.js": "/algoviz/service-worker.js",
     "static/css/2.3e575b9f.chunk.css.map": "/algoviz/static/css/2.3e575b9f.chunk.css.map",
     "static/css/main.756daaf8.chunk.css.map": "/algoviz/static/css/main.756daaf8.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/css/2.3e575b9f.chunk.css",
     "static/js/2.2c0b6db3.chunk.js",
     "static/css/main.756daaf8.chunk.css",
-    "static/js/main.2ed49f16.chunk.js"
+    "static/js/main.f1fc4759.chunk.js"
   ]
 }
