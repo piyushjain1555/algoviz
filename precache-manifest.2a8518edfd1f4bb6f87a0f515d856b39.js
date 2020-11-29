@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af9e1b6af2a06f413fcb417e051dddfe",
+    "revision": "efd5506ab2fbc2d1ec59666709d6451b",
     "url": "/algoviz/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/algoviz/static/css/2.3e575b9f.chunk.css"
   },
   {
-    "revision": "ff56777474895eb4f621",
+    "revision": "6c1bacacac2ee57a7015",
     "url": "/algoviz/static/css/main.756daaf8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/algoviz/static/js/2.2c0b6db3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff56777474895eb4f621",
-    "url": "/algoviz/static/js/main.632277a5.chunk.js"
+    "revision": "6c1bacacac2ee57a7015",
+    "url": "/algoviz/static/js/main.2ed49f16.chunk.js"
   },
   {
     "revision": "97e98d19d8b33d14351d",
