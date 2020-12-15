@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2b6ad0e7f3ac9bc77e8dffb16dcee32",
+    "revision": "ea1e3319f4e58c22ca6f63c8389bfa20",
     "url": "/algoviz/index.html"
   },
   {
-    "revision": "b3849f83ab5a066c5760",
+    "revision": "b8d598862959eff44974",
     "url": "/algoviz/static/css/2.3e575b9f.chunk.css"
   },
   {
-    "revision": "ab01c75cb115b975273f",
-    "url": "/algoviz/static/css/main.756daaf8.chunk.css"
+    "revision": "426548a32cf5ef24777b",
+    "url": "/algoviz/static/css/main.34374136.chunk.css"
   },
   {
-    "revision": "b3849f83ab5a066c5760",
-    "url": "/algoviz/static/js/2.097df6f3.chunk.js"
+    "revision": "b8d598862959eff44974",
+    "url": "/algoviz/static/js/2.c37143a0.chunk.js"
   },
   {
     "revision": "772341699553daad6bcd7d8925a6b28f",
-    "url": "/algoviz/static/js/2.097df6f3.chunk.js.LICENSE.txt"
+    "url": "/algoviz/static/js/2.c37143a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab01c75cb115b975273f",
-    "url": "/algoviz/static/js/main.06f5c3e6.chunk.js"
+    "revision": "426548a32cf5ef24777b",
+    "url": "/algoviz/static/js/main.226ea7fd.chunk.js"
   },
   {
     "revision": "97e98d19d8b33d14351d",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1ab691bca72020f4641a19a4d2d6d697",
     "url": "/algoviz/static/media/algo.1ab691bc.jpg"
+  },
+  {
+    "revision": "d623bc8db6e39771814dfce570b853fa",
+    "url": "/algoviz/static/media/algoviz-dp-1.d623bc8d.jpg"
   },
   {
     "revision": "fa3aa102a908677a6e5b7c9c2b517a1a",

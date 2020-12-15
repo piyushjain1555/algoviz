@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/algoviz/static/css/main.756daaf8.chunk.css",
-    "main.js": "/algoviz/static/js/main.06f5c3e6.chunk.js",
-    "main.js.map": "/algoviz/static/js/main.06f5c3e6.chunk.js.map",
+    "main.css": "/algoviz/static/css/main.34374136.chunk.css",
+    "main.js": "/algoviz/static/js/main.226ea7fd.chunk.js",
+    "main.js.map": "/algoviz/static/js/main.226ea7fd.chunk.js.map",
     "runtime-main.js": "/algoviz/static/js/runtime-main.06876b55.js",
     "runtime-main.js.map": "/algoviz/static/js/runtime-main.06876b55.js.map",
     "static/css/2.3e575b9f.chunk.css": "/algoviz/static/css/2.3e575b9f.chunk.css",
-    "static/js/2.097df6f3.chunk.js": "/algoviz/static/js/2.097df6f3.chunk.js",
-    "static/js/2.097df6f3.chunk.js.map": "/algoviz/static/js/2.097df6f3.chunk.js.map",
+    "static/js/2.c37143a0.chunk.js": "/algoviz/static/js/2.c37143a0.chunk.js",
+    "static/js/2.c37143a0.chunk.js.map": "/algoviz/static/js/2.c37143a0.chunk.js.map",
     "index.html": "/algoviz/index.html",
-    "precache-manifest.c86d6272519ee45cb4bd5ece9f15a352.js": "/algoviz/precache-manifest.c86d6272519ee45cb4bd5ece9f15a352.js",
+    "precache-manifest.445fedb866853d41707bee296716886d.js": "/algoviz/precache-manifest.445fedb866853d41707bee296716886d.js",
     "service-worker.js": "/algoviz/service-worker.js",
     "static/css/2.3e575b9f.chunk.css.map": "/algoviz/static/css/2.3e575b9f.chunk.css.map",
-    "static/css/main.756daaf8.chunk.css.map": "/algoviz/static/css/main.756daaf8.chunk.css.map",
-    "static/js/2.097df6f3.chunk.js.LICENSE.txt": "/algoviz/static/js/2.097df6f3.chunk.js.LICENSE.txt",
+    "static/css/main.34374136.chunk.css.map": "/algoviz/static/css/main.34374136.chunk.css.map",
+    "static/js/2.c37143a0.chunk.js.LICENSE.txt": "/algoviz/static/js/2.c37143a0.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/algoviz/static/media/quicksort.2cf31f43.jpg",
     "static/media/algo.jpg": "/algoviz/static/media/algo.1ab691bc.jpg",
+    "static/media/algoviz-dp-1.jpg": "/algoviz/static/media/algoviz-dp-1.d623bc8d.jpg",
     "static/media/bar-chart-outline.svg": "/algoviz/static/media/bar-chart-outline.fa3aa102.svg",
     "static/media/bar-small.jpg": "/algoviz/static/media/bar-small.7324d6e8.jpg",
     "static/media/heap.css": "/algoviz/static/media/heapsort-banner.4fafb1bb.jpg",
@@ -32,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.06876b55.js",
     "static/css/2.3e575b9f.chunk.css",
-    "static/js/2.097df6f3.chunk.js",
-    "static/css/main.756daaf8.chunk.css",
-    "static/js/main.06f5c3e6.chunk.js"
+    "static/js/2.c37143a0.chunk.js",
+    "static/css/main.34374136.chunk.css",
+    "static/js/main.226ea7fd.chunk.js"
   ]
 }
