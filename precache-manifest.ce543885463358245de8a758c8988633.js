@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea1e3319f4e58c22ca6f63c8389bfa20",
+    "revision": "dc390a979421bb97c0defe0b7bf11bd3",
     "url": "/algoviz/index.html"
   },
   {
-    "revision": "b8d598862959eff44974",
+    "revision": "e2d049c09c1bd8f62de2",
     "url": "/algoviz/static/css/2.3e575b9f.chunk.css"
   },
   {
-    "revision": "426548a32cf5ef24777b",
-    "url": "/algoviz/static/css/main.34374136.chunk.css"
+    "revision": "6ac291e0d63758008273",
+    "url": "/algoviz/static/css/main.b02a6727.chunk.css"
   },
   {
-    "revision": "b8d598862959eff44974",
-    "url": "/algoviz/static/js/2.c37143a0.chunk.js"
+    "revision": "e2d049c09c1bd8f62de2",
+    "url": "/algoviz/static/js/2.7e3370dc.chunk.js"
   },
   {
     "revision": "772341699553daad6bcd7d8925a6b28f",
-    "url": "/algoviz/static/js/2.c37143a0.chunk.js.LICENSE.txt"
+    "url": "/algoviz/static/js/2.7e3370dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "426548a32cf5ef24777b",
-    "url": "/algoviz/static/js/main.226ea7fd.chunk.js"
+    "revision": "6ac291e0d63758008273",
+    "url": "/algoviz/static/js/main.fe23399b.chunk.js"
   },
   {
     "revision": "97e98d19d8b33d14351d",
@@ -38,6 +38,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d623bc8db6e39771814dfce570b853fa",
     "url": "/algoviz/static/media/algoviz-dp-1.d623bc8d.jpg"
+  },
+  {
+    "revision": "9104cc9f767fca85ef73ef4f8179f09b",
+    "url": "/algoviz/static/media/algoviz-dp-2.9104cc9f.jpg"
+  },
+  {
+    "revision": "bcf8d9920f5bcf443e7c0317a640af6c",
+    "url": "/algoviz/static/media/algoviz-dp-3.bcf8d992.jpg"
+  },
+  {
+    "revision": "ceb7117c10f6be2a37a8e71da73643b2",
+    "url": "/algoviz/static/media/algoviz-dp-4.ceb7117c.jpg"
   },
   {
     "revision": "fa3aa102a908677a6e5b7c9c2b517a1a",
